@@ -4,7 +4,7 @@ const Container = styled.header`
     align-items: center;
     display: flex;
     justify-content: space-between;
-    height: 5rem;
+    height: 4rem;
     width: 100%;
 
     h1#logo {
