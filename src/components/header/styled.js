@@ -9,7 +9,7 @@ const Container = styled.header`
 
     h1#logo {
         margin-left: 40px;
-        color: black;
+        color: white;
 
     }
 
